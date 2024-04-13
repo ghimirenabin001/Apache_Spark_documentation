@@ -1,2 +1,2 @@
-# wordcount_Apache_Spark
-A wordcount example from real word .txt file 
+# Apache Spark
+this repository is used to share some used examples of data manipulation using Apache Spark
